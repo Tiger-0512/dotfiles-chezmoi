@@ -119,8 +119,8 @@ export PATH="/Users/taigamat/.local/share/solana/install/active_release/bin:$PAT
 export PATH="/Users/taigamat/.local/share/automated-security-helper:$PATH"
 
 
-#-------------------- finch --------------------#
-alias docker='finch'
+# #-------------------- finch --------------------#
+# alias docker='finch'
 
 # Fig post block. Keep at the bottom of this file.
 [[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.post.zsh"
